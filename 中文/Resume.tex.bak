@@ -5,7 +5,7 @@
 \usepackage{amssymb}
 \usepackage[usenames]{color}
 
-\leftmargin=0.25in
+%\leftmargin=0.2in
 \oddsidemargin=0.25in
 \textwidth=6.0in
 \topmargin=-0.25in
@@ -22,7 +22,7 @@
   \begin{list}{}{%
     \setlength{\topsep}{0pt}%
     \setlength{\leftmargin}{#1}%
-    \setlength{\rightmargin}{#2}%
+    %\setlength{\rightmargin}{#2}%
     \setlength{\listparindent}{\parindent}%
     \setlength{\itemindent}{\parindent}%
     \setlength{\parsep}{\parskip}%
@@ -136,7 +136,7 @@
 
 \begin{body}
     \vspace{14pt}
-    研究生, 上海国际数据库研究中心 \hfill \emph{2011/9 - 今}
+    硕士生, 上海国际数据库研究中心 \hfill \emph{2011/9 - 今}
     \vspace*{-4pt}
     \begin{itemize} \itemsep -0pt
         \item 研究下一代基因序列拼接算法，并完成了一个样例程序  %Research on next generation sequence assembling and accomplished a demon program.
