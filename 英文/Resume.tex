@@ -1,0 +1,209 @@
+\documentclass[9pt]{article}
+\usepackage{fullpage}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage[usenames]{color}
+
+\leftmargin=0.25in
+\oddsidemargin=0.25in
+\textwidth=6.0in
+\topmargin=-0.25in
+\textheight=9.25in
+
+\raggedright
+
+\pagenumbering{arabic}
+
+\def\bull{\vrule height 0.8ex width .7ex depth -.1ex }
+% DEFINITIONS FOR RESUME
+
+\newenvironment{changemargin}[2]{%
+  \begin{list}{}{%
+    \setlength{\topsep}{0pt}%
+    \setlength{\leftmargin}{#1}%
+    \setlength{\rightmargin}{#2}%
+    \setlength{\listparindent}{\parindent}%
+    \setlength{\itemindent}{\parindent}%
+    \setlength{\parsep}{\parskip}%
+  }%
+  \item[]}{\end{list}
+}
+
+\newcommand{\lineover}{
+	\begin{changemargin}{-0.05in}{-0.05in}
+		\vspace*{-8pt}
+		\hrulefill \\
+		\vspace*{-2pt}
+	\end{changemargin}
+}
+
+\newcommand{\header}[1]{
+	\begin{changemargin}{-0.5in}{-0.5in}
+		\scshape{#1}\\
+  	\lineover
+	\end{changemargin}
+}
+
+\newcommand{\contact}[4]{
+	\begin{changemargin}{-0.5in}{-0.5in}
+		\begin{center}
+			{\Large \scshape {#1}}\\ \smallskip
+			{#2}\\ \smallskip
+			{#3}\\ \smallskip
+			{#4}\smallskip
+		\end{center}
+	\end{changemargin}
+}
+
+\newenvironment{body} {
+	\vspace*{-16pt}
+	\begin{changemargin}{-0.25in}{-0.5in}
+  }	
+	{\end{changemargin}
+}	
+
+\newcommand{\school}[4]{
+	\textbf{#1} \hfill \emph{#2\\}
+	#3\\
+	#4\\
+}
+
+% END RESUME DEFINITIONS
+
+\begin{document}
+\thispagestyle{empty}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Name
+\contact{Sun Zhao}{zixiaojindao@gmail.com}{+8613661800879}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Objective
+%\header{Objective}
+%
+%\begin{body}
+%	\vspace{14pt}
+%	To apply for a software
+%\end{body}
+%
+%\smallskip
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Education
+\header{\textbf{Education}}
+
+\begin{body}
+	\vspace{14pt}
+	Master's degree, Software Theory --- GPA 3.61/4.00 \hfill \emph{Sept. 2011 - Jul. 2014(expected)} \\
+	\emph{Fudan University}, Shanghai, China \\
+  \medskip
+	Bachelor's degree, Computer Science --- GPA 3.66/4.00 \hfill \emph{Sept. 2007 - Jul. 2011} \\
+	\emph{Fudan University}, Shanghai, China\\
+\end{body}
+
+\smallskip
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Experience
+\header{\textbf{Career History}}
+
+\begin{body}
+	\vspace{14pt}
+    Research Intern, \emph{Microsoft Research Asia} \hfill \emph{Feb. 2011 - Aug. 2011}\\
+    \vspace*{-4pt}
+    \begin{itemize} \itemsep -0pt
+        \item Worked for database group
+        \item Worked on a distributed share memory computing platform named Trinity
+        \item Designed an efficient subgraph query component for Trinity
+        \item Published a research paper on PVLDB 2012
+    \end{itemize}
+
+    Research Intern, \emph{Microsoft Research Asia} \hfill \emph{Oct. 2012 - Feb. 2013}\\
+    \vspace*{-4pt}
+    \begin{itemize} \itemsep -0pt
+    \item Worked for system group
+    \item Studied of and developed applications on a flash cloud platform
+    \item Finished a survey report of the feasibility of large scale gene sequence assembly algorithms applied on the flash cloud platform
+    \end{itemize}
+\end{body}
+
+\smallskip
+
+% \newpage{} % uncomment this line if you want to force a new page
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Academic roles
+\header{\textbf{Project Experiences}}
+
+\begin{body}
+    \vspace{14pt}
+    Research Student, \emph{Shanghai International Database Research Center} \hfill \emph{Fall 2011 - Present}
+    \vspace*{-4pt}
+    \begin{itemize} \itemsep -0pt
+        \item Research on next generation sequence assembly algorithms and accomplished a demon program
+        \item Research on partitioning and storing large scale graph within a distributed share memory database
+        \item Construct, manage and maintain laboratory website
+    \end{itemize}
+\end{body}
+\smallskip
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Publications
+\header{\textbf{Publications}}
+
+\begin{body}
+	\vspace{14pt}
+	\textbf{Zhao Sun}, Hongzhi Wang, Haixun Wang, Bin Shao, Jianzhong Li. ``\textbf{Efficient Subgraph Matching on Billion Node Graphs}'', in \emph{Proceeding of the VLDB Endowment, Volume 5 Issue 9}, 2012.\\
+\end{body}
+\smallskip
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Skills
+\header{\textbf{Skills}}
+
+\begin{body}
+	\vspace{14pt}
+	\emph{Programming:}{} C, C++, C\#, SQL\\
+    \medskip
+    \emph{Editors:}{} Visual Studio 2008/2010, Vim\\
+    \medskip
+    \emph{English:}{} CET-6
+\end{body}
+\smallskip
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Leadership
+%\header{Leadership Activities}
+%
+%\begin{body}
+%	\vspace{14pt}
+%	\textbf{Co-founder, President}, Students in Software Engineering (SSE) \hfill {} \emph{Summer 2008 - Spring 2011}\\
+%	\smallskip
+%	\textbf{Mentor}, Undergraduate and graduate student mentor \hfill{} \emph{Fall 2007 - Spring 2011}\\
+%\end{body}
+%
+%\smallskip
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Awards and Honors
+\header{\textbf{Awards and Honors}}
+
+\begin{body}
+	\vspace{14pt}
+    Special-class Award of Tencent Innovation Scholarship, Fudan University \hfill{} \emph{2012}\\
+    \smallskip
+    First Class Scholarship, Fudan University \hfill{} \emph{2012}\\
+    \smallskip
+    Third Class Award in ACM Competetion of Youdao Cup  \hfill{} \emph{2011}\\
+    \smallskip
+    Outstanding Freshmen Scholarship of Fudan University, Fudan University \hfill{} \emph{2011}\\
+    \smallskip
+    Outstanding Graduate Award, Fudan University \hfill{} \emph{2011}\\
+	\smallskip	
+\end{body}
+
+\end{document}
