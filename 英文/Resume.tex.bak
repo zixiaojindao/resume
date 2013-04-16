@@ -95,7 +95,7 @@
 
 \begin{body}
 	\vspace{14pt}
-	Master's degree, Software Theory --- GPA 3.61/4.00 \hfill \emph{Sept. 2011 - Jul. 2014(expected)} \\
+	Master's degree, Software Theory --- GPA 3.6/4.00 \hfill \emph{Sept. 2011 - Jul. 2014(expected)} \\
 	\emph{Fudan University}, Shanghai, China \\
   \medskip
 	Bachelor's degree, Computer Science --- GPA 3.66/4.00 \hfill \emph{Sept. 2007 - Jul. 2011} \\
@@ -111,6 +111,14 @@
 
 \begin{body}
 	\vspace{14pt}
+    Research Intern, \emph{Microsoft Research Asia} \hfill \emph{Oct. 2012 - Feb. 2013}\\
+    \vspace*{-4pt}
+    \begin{itemize} \itemsep -0pt
+    \item Worked for system group
+    \item Studied of and developed applications on a flash cloud platform
+    \item Finished a survey report of the feasibility of large scale gene sequence assembly algorithms applied on the flash cloud platform
+    \end{itemize}
+    
     Research Intern, \emph{Microsoft Research Asia} \hfill \emph{Feb. 2011 - Aug. 2011}\\
     \vspace*{-4pt}
     \begin{itemize} \itemsep -0pt
@@ -118,14 +126,6 @@
         \item Worked on a distributed share memory computing platform named Trinity
         \item Designed an efficient subgraph query component for Trinity
         \item Published a research paper on PVLDB 2012
-    \end{itemize}
-
-    Research Intern, \emph{Microsoft Research Asia} \hfill \emph{Oct. 2012 - Feb. 2013}\\
-    \vspace*{-4pt}
-    \begin{itemize} \itemsep -0pt
-    \item Worked for system group
-    \item Studied of and developed applications on flash cloud platform
-    \item Finished a survey report of the feasibility of large scale gene sequence assembly algorithms applied on the flash cloud platform
     \end{itemize}
 \end{body}
 
@@ -143,7 +143,8 @@
     \vspace*{-4pt}
     \begin{itemize} \itemsep -0pt
         \item Research on next generation sequence assembly algorithms and accomplished a demon program
-        \item Research on partitioning and storing large scale graph within distributed share memory database
+        \item Research on partitioning and storing large scale graph within a distributed share memory database
+        \item Implement the distributed file system labs of MIT's operating sysytem course
         \item Construct, manage and maintain laboratory website
     \end{itemize}
 \end{body}
@@ -194,13 +195,13 @@
 
 \begin{body}
 	\vspace{14pt}
-    Tencent Innovation Scholarship Grand Prize, Fudan University \hfill{} \emph{2012}\\
+    Special-class Award of Tencent Innovation Scholarship, Fudan University \hfill{} \emph{2012}\\
     \smallskip
     First Class Scholarship, Fudan University \hfill{} \emph{2012}\\
     \smallskip
-    Third Class Award in ACM Competetion of Youdao Cup  \hfill{} \emph{2011}\\
+    Third Class Award in ACM Competition of Youdao Cup  \hfill{} \emph{2011}\\
     \smallskip
-    Freshman Scholarship of Fudan University, Fudan University \hfill{} \emph{2011}\\
+    Outstanding Freshmen Scholarship of Fudan University, Fudan University \hfill{} \emph{2011}\\
     \smallskip
     Outstanding Graduate Award, Fudan University \hfill{} \emph{2011}\\
 	\smallskip	
