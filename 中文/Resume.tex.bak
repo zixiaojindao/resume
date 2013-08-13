@@ -109,7 +109,20 @@
 \header{\textbf{实习经历}}
 
 \begin{body}
+    \vspace{14pt}
+    软件开发员, DFC Technology\hfill \emph{2013/5 - 2013/10}
+    \begin{itemize} \itemsep -0pt
+    \item 开发管理交易策略的WCF服务
+    \item Hbase的安装配置和调优，开发快速导入历史数据和访问数据库的客户端
+    \item 引导团队进行单元测试和自动集成
+    \end{itemize}
+    
 	\vspace{14pt}
+    实习研究员, 微软亚州研究院\hfill \emph{2012/10 - 2013/2}
+    \begin{itemize} \itemsep -0pt
+    \item 工作于微软亚研系统组，研究Flash Cloud上的应用
+    \item 调研大规模基因序列拼接算法在Flash Cloud上的可行性，完成了项目的调研工作
+    \end{itemize}
 
     实习研究员, 微软亚洲研究院 \hfill \emph{2011/2 - 2011/8}
     \vspace*{-4pt}
@@ -117,12 +130,6 @@
         \item 工作于微软亚研数据库组，研究分布式共享内存和计算平台  %Worked on a distributed share memory computing platform named Trinity.
         \item 设计了一个快速的分布式子图查询模块                   %Designed an efficient subgraph query component for Trinity.
         \item 发表一篇学术论文在 PVLDB 2012上
-    \end{itemize}
-
-    实习研究员, 微软亚州研究院\hfill \emph{2012/10 - 2013/2}
-    \begin{itemize} \itemsep -0pt
-    \item 工作于微软亚研系统组，研究Flash Cloud上的应用
-    \item 调研大规模基因序列拼接算法在Flash Cloud上的可行性，完成了项目的调研工作
     \end{itemize}
 \end{body}
 
@@ -140,8 +147,8 @@
     \vspace*{-4pt}
     \begin{itemize} \itemsep -0pt
         \item 研究下一代基因序列拼接算法，并完成了一个样例程序  %Research on next generation sequence assembling and accomplished a demon program.
-        \item 研究分布式图数据系统，大图分割和存储问题 %Research on partitioning and storing large scale graph within distributed share memory
-        \item 实现MIT课程的分布式文件系统
+        \item 研究分布式图数据库系统，大图分割和存储问题 %Research on partitioning and storing large scale graph within distributed share memory
+        \item 实现MIT操作系统实验课程的分布式文件系统
         \item 实验室小组网站管理员，负责网站搭建，维护，和svn服务搭建维护工作
     \end{itemize}
     \smallskip
