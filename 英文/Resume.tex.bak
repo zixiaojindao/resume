@@ -114,15 +114,15 @@
     Research Intern, \emph{Microsoft Research Asia} \hfill \emph{Oct. 2012 - Feb. 2013}\\
     \vspace*{-4pt}
     \begin{itemize} \itemsep -0pt
-    \item Worked for system group
+    \item Worked for the system group
     \item Studied of and developed applications on a flash cloud platform
     \item Finished a survey report of the feasibility of large scale gene sequence assembly algorithms applied on the flash cloud platform
     \end{itemize}
-    
+
     Research Intern, \emph{Microsoft Research Asia} \hfill \emph{Feb. 2011 - Aug. 2011}\\
     \vspace*{-4pt}
     \begin{itemize} \itemsep -0pt
-        \item Worked for database group
+        \item Worked for the database group
         \item Worked on a distributed share memory computing platform named Trinity
         \item Designed an efficient subgraph query component for Trinity
         \item Published a research paper on PVLDB 2012
@@ -145,7 +145,7 @@
         \item Research on next generation sequence assembly algorithms and accomplished a demon program
         \item Research on partitioning and storing large scale graph within a distributed share memory database
         \item Implement the distributed file system labs of MIT's operating sysytem course
-        \item Construct, manage and maintain laboratory website
+        \item Construct, manage and maintain my laboratory's website
     \end{itemize}
 \end{body}
 \smallskip
@@ -166,7 +166,7 @@
 
 \begin{body}
 	\vspace{14pt}
-	\emph{Programming:}{} C, C++, C\#, SQL\\
+	\emph{Programming:}{} C(Proficient), C++(Proficient), C\#(Familiar), Python(Familiar)\\
     \medskip
     \emph{Editors:}{} Visual Studio 2008/2010, Vim\\
     \medskip
