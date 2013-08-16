@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=latex 2012.7.13)  13 AUG 2013 16:53
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=latex 2012.7.13)  16 AUG 2013 20:20
 entering extended mode
 **C:/Users/SunZhao/Documents/简历/resume/中文/Resume.tex
 (C:/Users/SunZhao/Documents/简历/resume/中文/Resume.tex
@@ -295,7 +295,7 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.54> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 115.
 Package CJKpunct Info: punctuation spaces for family 'zhsong' do not exist. Use
- family 'def' instead. on input line 116.
+ family 'def' instead. on input line 123.
  [1
 
 ]
@@ -305,12 +305,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 4236 strings out of 495363
- 62875 string characters out of 3184046
- 112107 words of memory out of 3000000
- 7280 multiletter control sequences out of 15000+200000
+ 4241 strings out of 495363
+ 62968 string characters out of 3184046
+ 113107 words of memory out of 3000000
+ 7285 multiletter control sequences out of 15000+200000
  19158 words of font info for 66 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 31i,5n,26p,454b,587s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 31i,5n,26p,454b,589s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on Resume.dvi (1 page, 9572 bytes).
+Output written on Resume.dvi (1 page, 9712 bytes).
