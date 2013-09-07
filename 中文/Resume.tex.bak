@@ -110,9 +110,9 @@
 
 \begin{body}
     \vspace{14pt}
-    软件开发员, DFC Technology\hfill \emph{2013/5 - 今}
+    实习软件开发员, DFC Technology\hfill \emph{2013/5 - 今}
     \begin{itemize} \itemsep -1pt
-    \item 开发管理交易策略的WCF服务
+    \item 开发管理交易策略动态链接库的WCF服务
     \item Hbase的安装配置和调优
     \item 开发快速导入历史数据和访问数据库的客户端
     \item 引导团队进行单元测试和自动集成

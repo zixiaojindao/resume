@@ -95,7 +95,7 @@
 
 \begin{body}
 	\vspace{14pt}
-	Master's degree, Software Theory --- GPA 3.6/4.00 \hfill \emph{Sept. 2011 - Jul. 2014(expected)} \\
+	Master's degree, Software Theory --- GPA 3.60/4.00 \hfill \emph{Sept. 2011 - Jul. 2014(expected)} \\
 	\emph{Fudan University}, Shanghai, China \\
   \medskip
 	Bachelor's degree, Computer Science --- GPA 3.66/4.00 \hfill \emph{Sept. 2007 - Jul. 2011} \\
@@ -111,7 +111,7 @@
 
 \begin{body}
 	\vspace{14pt}
-    Software Developer, \emph{DFC Technology} \hfill \emph{May. 2012 - Present}\\
+    Software Developer Intern, \emph{DFC Technology} \hfill \emph{May. 2013 - Present}\\
     \vspace*{-4pt}
     \begin{itemize} \itemsep -0pt
     \item Developed WCF Services managing trading strategy dlls
@@ -145,8 +145,8 @@
     \vspace*{-4pt}
     \begin{itemize} \itemsep -0pt
         \item Research on next generation sequence assembly algorithms and accomplished a demon program
-        \item Research on partitioning and storing large scale graph within a distributed share memory database
-        \item Implement the distributed file system labs of MIT's operating sysytem course
+        \item Research on partitioning and storing large scale graphs into a distributed share memory database
+        \item Implemented the distributed file system labs of MIT's operating sysytem course
         \item Construct, manage and maintain my laboratory's website
     \end{itemize}
 \end{body}
@@ -168,7 +168,7 @@
 
 \begin{body}
 	\vspace{14pt}
-	\emph{Programming:}{} C, C++, C\#, SQL\\
+	\emph{Programming:}{} C(proficient), C++(proficient), C\#(prior experience), Python(prior experience)\\
     \medskip
     \emph{Editors:}{} Visual Studio 2008/2010, Vim\\
     \medskip
