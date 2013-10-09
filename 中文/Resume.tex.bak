@@ -97,7 +97,7 @@
 	\vspace{14pt}
 	计算机软件与理论硕士在读 --- GPA 3.60/4.00 \hfill \emph{2011/9 - 2014/6(预计)} \\
 	 复旦大学, 中国上海 \\
-	计算机科学与技术本科 --- GPA 3.66/4.00 \hfill \emph{2007/9 - 2011/6} \\
+	计算机科学与技术本科 --- GPA 3.65/4.00 \hfill \emph{2007/9 - 2011/6} \\
 	复旦大学, 中国上海\\
 \end{body}
 
@@ -110,8 +110,9 @@
 
 \begin{body}
     \vspace{14pt}
-    实习软件开发员, DFC Technology\hfill \emph{2013/5 - 今}
+    实习软件开发员, DFC Technology\hfill \emph{2013/5 - 2013/10}
     \begin{itemize} \itemsep -1pt
+    \item 开发和测试核心量化交易软件
     \item 开发管理交易策略动态链接库的WCF服务
     \item Hbase的安装配置和调优
     \item 开发快速导入历史数据和访问数据库的客户端
